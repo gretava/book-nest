@@ -1,0 +1,947 @@
+[
+  {
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "publish_year": 2015,
+    "page_number": 395,
+    "genres": ["Thriller", "Mystery"],
+    "description": "Rachel, an alcoholic woman struggling with her broken marriage, becomes obsessed with a couple she watches from the train every day. When the woman in the couple goes missing, Rachel gets entangled in a web of lies and secrets. A psychological thriller full of twists and unreliable narration.",
+    "isbn": "9781594633669"
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "publish_year": 2018,
+    "page_number": 368,
+    "genres": ["Mystery", "Romance", "Coming-of-Age"],
+    "description": "Kya Clark, the mysterious 'Marsh Girl' of Barkley Cove, is ostracized by the townspeople. But when a local man is found dead, Kya becomes the prime suspect. This novel blends mystery, romance, and a poignant coming-of-age story about survival and the connection to nature.",
+    "isbn": "9780735219090"
+  },
+  {
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "publish_year": 2018,
+    "page_number": 400,
+    "genres": ["Fantasy", "Mythology"],
+    "description": "A retelling of the Greek myth, Circe follows the story of the powerful witch who lives on the island of Aiaia. Exiled by the gods, Circe learns to harness her magic and faces her own identity, desires, and the consequences of her choices. A lyrical, feminist retelling of ancient myths.",
+    "isbn": "9780316556347"
+  },
+  {
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "publish_year": 2019,
+    "page_number": 325,
+    "genres": ["Thriller", "Mystery"],
+    "description": "A celebrated painter, Alicia Berenson, shoots her husband and then refuses to speak. A psychotherapist is determined to uncover the truth behind her silence. This gripping psychological thriller explores obsession, secrets, and the nature of truth.",
+    "isbn": "9781250301697"
+  },
+  {
+    "title": "The Shadow of the Wind",
+    "author": "Carlos Ruiz Zafón",
+    "publish_year": 2001,
+    "page_number": 496,
+    "genres": ["Fiction", "Mystery", "Historical"],
+    "description": "In post-World War II Barcelona, young Daniel Sempere discovers a forgotten novel by a mysterious author, Julian Carax. As he unravels the mystery of Carax's life, Daniel is pulled into a world of intrigue, danger, and the search for truth, in a novel full of twists and turns.",
+    "isbn": "9780143034903"
+  },
+  {
+    "title": "The Night Manager",
+    "author": "John le Carré",
+    "publish_year": 1993,
+    "page_number": 452,
+    "genres": ["Thriller", "Espionage"],
+    "description": "A former British soldier, Jonathan Pine, becomes embroiled in an international arms trade conspiracy after he starts working as a night manager at a luxury hotel. This spy thriller delves into the world of espionage, power, and morality.",
+    "isbn": "9780340653939"
+  },
+  {
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "publish_year": 2011,
+    "page_number": 387,
+    "genres": ["Fantasy", "Romance"],
+    "description": "The Night Circus is a magical, traveling circus that opens without warning and disappears just as mysteriously. At its heart is a competition between two magicians, each vying to prove their superiority. The novel blends magic, romance, and intrigue in a vividly imagined world.",
+    "isbn": "9780307744432"
+  },
+  {
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "publish_year": 2014,
+    "page_number": 460,
+    "genres": ["Fiction", "Mystery"],
+    "description": "Three women—Madeline, Celeste, and Jane—find their lives intertwined when a murder occurs at a school trivia night. This darkly comic novel explores themes of friendship, motherhood, secrets, and the complexity of women’s relationships.",
+    "isbn": "9780399167069"
+  },
+  {
+    "title": "The Outsider",
+    "author": "Stephen King",
+    "publish_year": 2018,
+    "page_number": 576,
+    "genres": ["Thriller", "Mystery", "Horror"],
+    "description": "When an 11-year-old boy is brutally murdered, the evidence points to a local teacher. However, as detective Ralph Anderson investigates further, he uncovers a series of unexplainable events that suggest the crime may be the work of something supernatural.",
+    "isbn": "9781982135131"
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "publish_year": 1985,
+    "page_number": 311,
+    "genres": ["Dystopian", "Science Fiction"],
+    "description": "In a totalitarian future, women are subjugated by a theocratic society. Offred, one of the few remaining fertile women, is forced to bear children for the ruling class. Atwood’s dystopian classic is a powerful commentary on gender, power, and oppression.",
+    "isbn": "9780385490818"
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "publish_year": 2016,
+    "page_number": 224,
+    "genres": ["Self-Help"],
+    "description": "In this refreshing take on self-help, Mark Manson challenges the conventional wisdom of positive thinking. He argues that we should care less about things that don’t matter and focus on what truly brings fulfillment, embracing the uncomfortable truths of life.",
+    "isbn": "9780062457714"
+  },
+  {
+    "title": "All the Light We Cannot See",
+    "author": "Anthony Doerr",
+    "publish_year": 2014,
+    "page_number": 531,
+    "genres": ["Historical Fiction"],
+    "description": "Set during World War II, 'All the Light We Cannot See' follows a blind French girl and a German soldier whose lives become intertwined. Doerr's novel is a moving exploration of the human spirit, resilience, and the effects of war on individual lives.",
+    "isbn": "9781501173219"
+  },
+  {
+    "title": "The Poisonwood Bible",
+    "author": "Barbara Kingsolver",
+    "publish_year": 1998,
+    "page_number": 543,
+    "genres": ["Historical Fiction", "Drama"],
+    "description": "The story of the Price family, who move to the Congo in 1959, unfolds through the voices of the five daughters and their mother. Kingsolver’s novel is a powerful exploration of cultural differences, colonialism, and the impact of Western ideals on indigenous cultures.",
+    "isbn": "9780061577071"
+  },
+  {
+    "title": "The Immortalists",
+    "author": "Chloe Benjamin",
+    "publish_year": 2018,
+    "page_number": 368,
+    "genres": ["Fiction", "Family Drama"],
+    "description": "Four siblings visit a fortune teller in their youth and are told the dates of their deaths. The novel follows them through life as they grapple with this knowledge and their choices, examining how fate, love, and time shape who they become.",
+    "isbn": "9780735213180"
+  },
+  {
+    "title": "Normal People",
+    "author": "Sally Rooney",
+    "publish_year": 2018,
+    "page_number": 268,
+    "genres": ["Romance", "Literary Fiction"],
+    "description": "Normal People traces the complex relationship between Marianne and Connell, two teenagers from a small Irish town. As they navigate their youth, family issues, social dynamics, and romantic entanglements, Rooney’s novel explores love, loneliness, and the intricacies of modern relationships.",
+    "isbn": "9780735639916"
+  },
+  {
+    "title": "The Four Agreements",
+    "author": "Don Miguel Ruiz",
+    "publish_year": 1997,
+    "page_number": 138,
+    "genres": ["Self-Help", "Spirituality"],
+    "description": "In this spiritual guide, Ruiz offers four agreements that can help individuals find personal freedom and break free from self-limiting beliefs. The simple but powerful principles—Be impeccable with your word, Don’t take anything personally, Don’t make assumptions, and Always do your best—lead to a life of happiness and peace.",
+    "isbn": "9781878424310"
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "publish_year": 2012,
+    "page_number": 432,
+    "genres": ["Thriller", "Mystery"],
+    "description": "When Amy Dunne goes missing on her fifth wedding anniversary, her husband Nick becomes the prime suspect. As the investigation unfolds, the story reveals shocking twists and psychological complexities, questioning the nature of love, trust, and marriage.",
+    "isbn": "9780307588371"
+  },
+  {
+    "title": "Outlander",
+    "author": "Diana Gabaldon",
+    "publish_year": 1991,
+    "page_number": 880,
+    "genres": ["Historical Fiction", "Romance", "Fantasy"],
+    "description": "Claire Randall, a World War II nurse, is mysteriously transported back in time to 18th-century Scotland. Caught between two worlds and two loves, Claire must navigate a tumultuous time while trying to find a way back to her own time.",
+    "isbn": "9780440212560"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "publish_year": 1988,
+    "page_number": 208,
+    "genres": ["Fiction", "Adventure"],
+    "description": "The Alchemist follows Santiago, a young shepherd from Spain, on a journey to discover his personal legend. His quest for treasure leads him across the desert, teaching him valuable lessons about listening to his heart and following his dreams. This allegorical novel highlights the importance of pursuing one’s purpose in life.",
+    "isbn": "9780062315007"
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "publish_year": 2006,
+    "page_number": 287,
+    "genres": ["Fiction", "Dystopian"],
+    "description": "In a post-apocalyptic world, a father and his young son travel through a desolate landscape, struggling to survive in a world devoid of humanity. Their bond is the only thing that keeps them going as they navigate the bleak and dangerous world. A deeply emotional and haunting exploration of survival, love, and loss.",
+    "isbn": "9780307387899"
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "publish_year": 2018,
+    "page_number": 400,
+    "genres": ["Biography", "Memoir"],
+    "description": "Educated is the memoir of Tara Westover, who grew up in a strict and isolated household in rural Idaho. With no formal education, she eventually escapes her family and pursues higher education, earning a PhD from the University of Cambridge. The book explores the power of education and the cost of personal freedom.",
+    "isbn": "9780399590504"
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "publish_year": 2008,
+    "page_number": 374,
+    "genres": ["Science Fiction", "Dystopian", "Young Adult"],
+    "description": "In a dystopian future, Katniss Everdeen volunteers to take her sister’s place in the Hunger Games, a televised fight to the death among children. As she navigates the Games, Katniss must make difficult decisions about loyalty, survival, and what it means to be a hero.",
+    "isbn": "9780439023528"
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "publish_year": 1988,
+    "page_number": 256,
+    "genres": ["Non-Fiction", "Science"],
+    "description": "Stephen Hawking’s groundbreaking work in cosmology, 'A Brief History of Time,' explores complex scientific concepts in a manner accessible to general readers. Topics include black holes, the nature of time, and the origin of the universe, making cutting-edge science understandable for a broad audience.",
+    "isbn": "9780553380163"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "publish_year": 1951,
+    "page_number": 277,
+    "genres": ["Fiction", "Young Adult"],
+    "description": "Holden Caulfield, a disillusioned teen, narrates his journey through New York City after being expelled from prep school, struggling with alienation and the complexities of adolescence.",
+    "isbn": "9780316769488"
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "publish_year": 2005,
+    "page_number": 465,
+    "genres": ["Mystery", "Thriller", "Crime"],
+    "description": "Journalist Mikael Blomkvist teams up with the enigmatic hacker Lisbeth Salander to investigate the disappearance of a young woman from a wealthy family. As they uncover dark secrets, they are drawn into a complex web of crime, corruption, and intrigue.",
+    "isbn": "9780307949486"
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "publish_year": 2005,
+    "page_number": 552,
+    "genres": ["Historical Fiction", "Young Adult"],
+    "description": "Set in Nazi Germany, 'The Book Thief' follows Liesel Meminger, a young girl who steals books to escape the horrors of war. Narrated by Death, the story captures the power of words to provide solace during times of hardship and loss.",
+    "isbn": "9780375842207"
+  },
+  {
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "publish_year": 2011,
+    "page_number": 369,
+    "genres": ["Sci-Fi", "Thriller"],
+    "description": "Astronaut Mark Watney is stranded on Mars after a mission goes wrong. Using his ingenuity and resourcefulness, he fights to survive while trying to communicate with NASA back on Earth. A gripping survival story that blends humor, science, and suspense.",
+    "isbn": "9780553418026"
+  },
+  {
+    "title": "The Outsiders",
+    "author": "S.E. Hinton",
+    "publish_year": 1967,
+    "page_number": 192,
+    "genres": ["Fiction", "Young Adult"],
+    "description": "Set in the 1960s, 'The Outsiders' follows Ponyboy Curtis and his gang, the Greasers, as they navigate the challenges of adolescence, class conflict, and the turbulent relationships between social groups. The novel captures the struggles of growing up and the complexities of loyalty and belonging.",
+    "isbn": "9780142407332"
+  },
+  {
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "publish_year": 1320,
+    "page_number": 798,
+    "genres": ["Epic Poetry", "Classics"],
+    "description": "Dante’s 'Divine Comedy' is an allegorical journey through the realms of Hell, Purgatory, and Heaven. The narrative follows Dante as he encounters historical and mythical figures, exploring themes of justice, redemption, and the nature of the human soul.",
+    "isbn": "9780451208747"
+  },
+  {
+    "title": "The Secret History",
+    "author": "Donna Tartt",
+    "publish_year": 1992,
+    "page_number": 559,
+    "genres": ["Mystery", "Thriller"],
+    "description": "A group of eccentric college students is drawn into a dangerous and fatal conspiracy involving murder and deception. As they uncover the truth, they must face the consequences of their actions in this dark, psychological thriller.",
+    "isbn": "9780375701585"
+  },
+  {
+    "title": "The Help",
+    "author": "Kathryn Stockett",
+    "publish_year": 2009,
+    "page_number": 522,
+    "genres": ["Historical Fiction", "Drama"],
+    "description": "Set in 1960s Mississippi, 'The Help' tells the story of three women—two African American maids and a white journalist—who come together to write a book revealing the lives of domestic workers. The novel explores themes of race, inequality, and friendship.",
+    "isbn": "9780399155345"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "publish_year": 1890,
+    "page_number": 254,
+    "genres": ["Classic", "Philosophy"],
+    "description": "Dorian Gray, a handsome young man, becomes obsessed with his own beauty and youth. As he indulges in a hedonistic lifestyle, his portrait ages while he remains young. Wilde’s novel explores themes of vanity, morality, and the consequences of living a life of excess.",
+    "isbn": "9780141439570"
+  },
+  {
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "publish_year": 1868,
+    "page_number": 759,
+    "genres": ["Classic", "Fiction"],
+    "description": "This beloved classic follows the lives of the four March sisters—Jo, Meg, Beth, and Amy—as they grow up during the American Civil War. The novel explores their personal struggles, dreams, and ambitions, while celebrating the bond of family.",
+    "isbn": "9780143039403"
+  },
+  {
+    "title": "Shōgun",
+    "author": "James Clavell",
+    "publish_year": 1975,
+    "page_number": 1120,
+    "genres": ["Historical Fiction", "Adventure"],
+    "description": "Set in 17th-century Japan, 'Shōgun' follows the journey of an English navigator, John Blackthorne, who is shipwrecked and becomes entangled in the political and cultural intrigue of feudal Japan. A sweeping epic of power, loyalty, and honor.",
+    "isbn": "9780440178000"
+  },
+  {
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "publish_year": 2003,
+    "page_number": 371,
+    "genres": ["Historical Fiction", "Drama"],
+    "description": "Amir, a young boy from Kabul, struggles with guilt after betraying his childhood friend, Hassan. As he grows up, Amir returns to Afghanistan to confront his past and seek redemption. Hosseini’s novel explores friendship, guilt, and the impact of history on personal lives.",
+    "isbn": "9781594631935"
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "publish_year": 1847,
+    "page_number": 400,
+    "genres": ["Classic", "Gothic Fiction"],
+    "description": "Set on the Yorkshire moors, 'Wuthering Heights' is a tragic love story between Heathcliff, an orphan taken in by the Earnshaw family, and Catherine, his passionate and self-destructive love. The novel explores obsession, revenge, and the destructive nature of love.",
+    "isbn": "9780141439556"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publish_year": 1925,
+    "page_number": 180,
+    "genres": ["Fiction", "Historical"],
+    "description": "A classic novel set in the Jazz Age, exploring themes of love, obsession, and the American Dream through the mysterious life of Jay Gatsby.",
+    "isbn": "9780743273565"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publish_year": 1960,
+    "page_number": 281,
+    "genres": ["Fiction", "Historical", "Drama"],
+    "description": "A novel about racial injustice in the Deep South, seen through the eyes of Scout Finch, a young girl whose father, lawyer Atticus Finch, defends a black man falsely accused of rape.",
+    "isbn": "9780060935467"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "publish_year": 1949,
+    "page_number": 328,
+    "genres": ["Sci-Fi", "Dystopian", "Political Fiction"],
+    "description": "A dystopian novel set in a totalitarian society where Big Brother watches every move. Winston Smith struggles against the oppressive regime of the Party.",
+    "isbn": "9780451524935"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "publish_year": 1997,
+    "page_number": 309,
+    "genres": ["Fantasy", "Young Adult"],
+    "description": "A young boy discovers that he is a wizard and attends a magical school, where he uncovers secrets about his parents' deaths and a dark force threatening the wizarding world.",
+    "isbn": "9780439708180"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "publish_year": 2011,
+    "page_number": 443,
+    "genres": ["Non-Fiction", "History", "Philosophy"],
+    "description": "A sweeping history of the human species, from the emergence of Homo sapiens in Africa to the present day, exploring how culture, society, and technology have shaped us.",
+    "isbn": "9780062316110"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publish_year": 1813,
+    "page_number": 279,
+    "genres": ["Romance", "Historical"],
+    "description": "The story of Elizabeth Bennet and her complex relationship with the proud and wealthy Mr. Darcy, exploring themes of love, class, and societal expectations in early 19th-century England.",
+    "isbn": "9780141439518"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "publish_year": 1937,
+    "page_number": 310,
+    "genres": ["Fantasy", "Adventure"],
+    "description": "Bilbo Baggins, a reluctant hobbit, embarks on an adventure to reclaim treasure guarded by the fearsome dragon Smaug, discovering courage and wisdom along the way.",
+    "isbn": "9780547928227"
+  },
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "publish_year": 1977,
+    "page_number": 447,
+    "genres": ["Horror", "Thriller"],
+    "description": "Jack Torrance, his wife Wendy, and their son Danny take a job as caretakers of a remote hotel, where dark supernatural forces push Jack to the brink of madness.",
+    "isbn": "9780307743657"
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "publish_year": 2005,
+    "page_number": 465,
+    "genres": ["Thriller", "Mystery"],
+    "description": "A psychological thriller involving the disappearance of a young woman 40 years ago, investigated by an unlikely duo—an investigative journalist and a hacker.",
+    "isbn": "9780307454546"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "publish_year": 1997,
+    "page_number": 309,
+    "genres": ["Fantasy", "Young Adult"],
+    "description": "The first book in the Harry Potter series, where a young boy discovers he is a wizard and attends Hogwarts School of Witchcraft and Wizardry.",
+    "isbn": "9780590353427"
+  },
+  {
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "publish_year": 2018,
+    "page_number": 448,
+    "genres": ["Biography", "Non-Fiction"],
+    "description": "A memoir by the former First Lady of the United States, chronicling her journey from Chicago to the White House, and her work as an advocate for social issues.",
+    "isbn": "9781524763138"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publish_year": 1960,
+    "page_number": 281,
+    "genres": ["Fiction", "Historical", "Classic"],
+    "description": "A young girl, Scout Finch, grows up in the racially charged South, learning about prejudice, justice, and morality through the trial of an innocent black man.",
+    "isbn": "9780061120084"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "publish_year": 1937,
+    "page_number": 310,
+    "genres": ["Fantasy", "Adventure"],
+    "description": "The journey of Bilbo Baggins, a hobbit who is reluctantly swept into an epic quest with a group of dwarves to reclaim a stolen treasure guarded by a dragon.",
+    "isbn": "9780345339683"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "publish_year": 2011,
+    "page_number": 443,
+    "genres": ["Non-Fiction", "History"],
+    "description": "Harari explores the history of the human species, from the emergence of Homo sapiens to the present day, examining the forces that shaped our societies and cultures.",
+    "isbn": "9780062316097"
+  },
+  {
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "publish_year": 2011,
+    "page_number": 387,
+    "genres": ["Fantasy", "Romance"],
+    "description": "A magical, mysterious circus appears without warning, where two young illusionists are bound in a contest that will determine their futures, and the fate of the circus.",
+    "isbn": "9780385534635"
+  },
+  {
+    "title": "The Goldfinch",
+    "author": "Donna Tartt",
+    "publish_year": 2013,
+    "page_number": 771,
+    "genres": ["Fiction", "Literary"],
+    "description": "The life of Theo Decker is changed forever when a terrorist attack at a museum kills his mother and leaves him with a priceless painting, The Goldfinch.",
+    "isbn": "9780316055437"
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "publish_year": 2006,
+    "page_number": 287,
+    "genres": ["Fiction", "Post-Apocalyptic"],
+    "description": "A father and son journey through a desolate, post-apocalyptic world, struggling to survive while clinging to the hope of redemption and love.",
+    "isbn": "9780307387134"
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "publish_year": 2012,
+    "page_number": 313,
+    "genres": ["Romance", "Young Adult"],
+    "description": "Two teenagers, Hazel and Gus, fall in love while battling cancer, finding meaning in life and in each other amidst the shadow of their illnesses.",
+    "isbn": "9780525478812"
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "publish_year": 1965,
+    "page_number": 412,
+    "genres": ["Sci-Fi", "Fantasy", "Adventure"],
+    "description": "Set in the distant future, Dune tells the epic tale of Paul Atreides, whose family takes control of the desert planet Arrakis, the only source of the universe's most valuable substance.",
+    "isbn": "9780441014057"
+  },
+  {
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "publish_year": 1993,
+    "page_number": 180,
+    "genres": ["Sci-Fi", "Young Adult"],
+    "description": "In a society where everyone is forced to conform, Jonas is selected to become the 'Receiver of Memory' and learns the dark secrets of the world around him.",
+    "isbn": "9780440237686"
+  },
+  {
+    "title": "The Twilight Saga: Twilight",
+    "author": "Stephenie Meyer",
+    "publish_year": 2005,
+    "page_number": 498,
+    "genres": ["Romance", "Fantasy", "Young Adult"],
+    "description": "Bella Swan moves to a small town and falls in love with Edward Cullen, a mysterious boy who turns out to be a vampire, in this first book of a supernatural romance series.",
+    "isbn": "9780316015844"
+  },
+  {
+    "title": "A Song of Ice and Fire: A Game of Thrones",
+    "author": "George R.R. Martin",
+    "publish_year": 1996,
+    "page_number": 694,
+    "genres": ["Fantasy", "Adventure", "Mystery"],
+    "description": "In the Seven Kingdoms of Westeros, noble families vie for control of the Iron Throne, leading to a complex series of political intrigues, battles, and betrayals.",
+    "isbn": "9780553103540"
+  },
+  {
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "publish_year": 1911,
+    "page_number": 331,
+    "genres": ["Fiction", "Children's"],
+    "description": "Mary Lennox, a spoiled and lonely girl, discovers a hidden, neglected garden on her uncle’s estate, leading her to find friendship, healing, and a sense of belonging.",
+    "isbn": "9780064401883"
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "publish_year": 2012,
+    "page_number": 432,
+    "genres": ["Thriller", "Mystery"],
+    "description": "Nick and Amy’s seemingly perfect marriage unravels when Amy goes missing, and secrets, lies, and betrayal are exposed in this dark and twisting psychological thriller.",
+    "isbn": "9780307588364"
+  },
+  {
+    "title": "A Little Life",
+    "author": "Hanya Yanagihara",
+    "publish_year": 2015,
+    "page_number": 736,
+    "genres": ["Fiction", "Literary"],
+    "description": "The lives of four friends, particularly Jude, a brilliant litigator with a painful past, are chronicled over several decades in a deeply emotional exploration of friendship, trauma, and survival.",
+    "isbn": "9780804172707"
+  },
+  {
+    "title": "The Nightingale",
+    "author": "Kristin Hannah",
+    "publish_year": 2015,
+    "page_number": 439,
+    "genres": ["Historical", "Fiction"],
+    "description": "Two sisters in Nazi-occupied France take different paths in their efforts to survive and resist the horrors of war, revealing the strength of women in times of adversity.",
+    "isbn": "9780312577224"
+  },
+  {
+    "title": "The Underground Railroad",
+    "author": "Colson Whitehead",
+    "publish_year": 2016,
+    "page_number": 306,
+    "genres": ["Historical", "Fiction"],
+    "description": "Cora, an enslaved woman, escapes from a brutal plantation in Georgia and travels north on a literal and metaphorical underground railroad in this powerful novel about slavery and freedom.",
+    "isbn": "9780385542364"
+  },
+  {
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "publish_year": 2014,
+    "page_number": 460,
+    "genres": ["Thriller", "Mystery", "Fiction"],
+    "description": "Three women, their intertwined lives, and a murder. In this darkly comedic novel, Liane Moriarty explores friendship, secrets, and the hidden truths behind domestic life.",
+    "isbn": "9780399167067"
+  },
+  {
+    "title": "The Light Between Oceans",
+    "author": "M.L. Stedman",
+    "publish_year": 2012,
+    "page_number": 400,
+    "genres": ["Historical", "Romance", "Fiction"],
+    "description": "Set on a remote Australian island, a lighthouse keeper and his wife discover a baby washed ashore, setting off a series of events that lead to heartbreak and moral dilemmas.",
+    "isbn": "9781451681758"
+  },
+  {
+    "title": "The Night Watchman",
+    "author": "Louise Erdrich",
+    "publish_year": 2020,
+    "page_number": 464,
+    "genres": ["Historical", "Fiction", "Literary"],
+    "description": "A powerful novel about the Native American experience, focusing on the fight against the U.S. government’s attempt to terminate Native American tribes in the 1950s.",
+    "isbn": "9780062671189"
+  },
+  {
+    "title": "The 5th Wave",
+    "author": "Rick Yancey",
+    "publish_year": 2013,
+    "page_number": 457,
+    "genres": ["Sci-Fi", "Thriller", "Young Adult"],
+    "description": "In the wake of an alien invasion, Cassie must navigate a world destroyed by waves of attacks while trying to find her brother and survive the brutal new world.",
+    "isbn": "9780399162413"
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "publish_year": 2017,
+    "page_number": 400,
+    "genres": ["Fiction", "Romance", "Historical"],
+    "description": "Evelyn Hugo, an aging Hollywood icon, recounts the story of her glamorous yet tumultuous career and her seven marriages in a deeply personal memoir.",
+    "isbn": "9781501161933"
+  },
+  {
+    "title": "Normal People",
+    "author": "Sally Rooney",
+    "publish_year": 2018,
+    "page_number": 266,
+    "genres": ["Fiction", "Romance", "Literary"],
+    "description": "This novel follows Connell and Marianne, two teenagers from a small Irish town, whose complex relationship evolves over the years as they navigate love, friendship, and personal growth.",
+    "isbn": "9781984822178"
+  },
+  {
+    "title": "Shutter Island",
+    "author": "Dennis Lehane",
+    "publish_year": 2003,
+    "page_number": 369,
+    "genres": ["Thriller", "Mystery"],
+    "description": "In 1954, U.S. Marshal Teddy Daniels is sent to a remote mental institution on Shutter Island to investigate the disappearance of a patient, but finds himself confronting his own dark past.",
+    "isbn": "9780385514231"
+  },
+  {
+    "title": "The Maze Runner",
+    "author": "James Dashner",
+    "publish_year": 2009,
+    "page_number": 374,
+    "genres": ["Sci-Fi", "Thriller", "Young Adult"],
+    "description": "Thomas wakes up in a maze with no memory of his life before, and along with a group of other boys, must solve the mystery of the maze and escape.",
+    "isbn": "9780385737944"
+  },
+  {
+    "title": "The Immortal Life of Henrietta Lacks",
+    "author": "Rebecca Skloot",
+    "publish_year": 2010,
+    "page_number": 381,
+    "genres": ["Biography", "Non-Fiction", "Science"],
+    "description": "This is the compelling story of Henrietta Lacks, whose cells were unknowingly taken for scientific research, leading to groundbreaking medical advances.",
+    "isbn": "9781400052189"
+  },
+  {
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "publish_year": 2020,
+    "page_number": 304,
+    "genres": ["Fiction", "Fantasy", "Self-Help"],
+    "description": "Nora Seed finds herself in a library between life and death, where she can explore alternate versions of her life and see what might have been.",
+    "isbn": "9780525559474"
+  },
+  {
+    "title": "The Invisible Life of Addie LaRue",
+    "author": "V.E. Schwab",
+    "publish_year": 2020,
+    "page_number": 442,
+    "genres": ["Fantasy", "Historical Fiction"],
+    "description": "Addie LaRue makes a deal with the devil for immortality, but the cost is that no one remembers her. She lives through centuries, until one day, someone does.",
+    "isbn": "9780765387561"
+  },
+  {
+    "title": "Anxious People",
+    "author": "Fredrik Backman",
+    "publish_year": 2019,
+    "page_number": 368,
+    "genres": ["Fiction", "Humor"],
+    "description": "A failed bank robber takes a group of people hostage during an open house, only for them to form unexpected connections and learn about each other's lives.",
+    "isbn": "9781501160806"
+  },
+  {
+    "title": "The Tattooist of Auschwitz",
+    "author": "Heather Morris",
+    "publish_year": 2018,
+    "page_number": 264,
+    "genres": ["Historical Fiction", "Romance"],
+    "description": "A true story about Lale Sokolov, a Jewish man who falls in love with a fellow prisoner while working as a tattooist in the Auschwitz-Birkenau concentration camp.",
+    "isbn": "9780062797152"
+  },
+  {
+    "title": "The Paris Library",
+    "author": "Janet Skeslien Charles",
+    "publish_year": 2021,
+    "page_number": 400,
+    "genres": ["Historical Fiction", "Fiction"],
+    "description": "The story of the American librarian who worked in the American Library in Paris during World War II, offering refuge to those in need while navigating the hardships of the war.",
+    "isbn": "9781982134190"
+  },
+  {
+    "title": "Before We Were Strangers",
+    "author": "Renée Carlino",
+    "publish_year": 2015,
+    "page_number": 326,
+    "genres": ["Romance", "Fiction"],
+    "description": "A second-chance romance about two former college lovers who reconnect years later in New York City, rekindling the bond they once had.",
+    "isbn": "9781492638146"
+  },
+  {
+    "title": "The Woman in the Window",
+    "author": "A.J. Finn",
+    "publish_year": 2018,
+    "page_number": 432,
+    "genres": ["Thriller", "Mystery"],
+    "description": "An agoraphobic woman spies on her neighbors from her window and believes she has witnessed a crime, but no one believes her story.",
+    "isbn": "9780062678423"
+  },
+  {
+    "title": "The Shadow of the Wind",
+    "author": "Carlos Ruiz Zafón",
+    "publish_year": 2001,
+    "page_number": 487,
+    "genres": ["Historical Fiction", "Mystery"],
+    "description": "A young boy in post-World War II Barcelona discovers a mysterious book by an obscure author, only to uncover dark secrets that lead to murder and intrigue.",
+    "isbn": "9780143034902"
+  },
+  {
+    "title": "The House in the Cerulean Sea",
+    "author": "TJ Klune",
+    "publish_year": 2020,
+    "page_number": 400,
+    "genres": ["Fantasy", "LGBTQ", "Fiction"],
+    "description": "Linus Baker, a by-the-book bureaucrat, is sent to a mysterious orphanage that houses magical children, where he finds love and discovers a new purpose in life.",
+    "isbn": "9781250217303"
+  },
+  {
+    "title": "American Dirt",
+    "author": "Jeanine Cummins",
+    "publish_year": 2020,
+    "page_number": 400,
+    "genres": ["Fiction", "Drama"],
+    "description": "Lydia, a bookstore owner in Acapulco, flees to the United States with her son after a cartel massacre, embarking on a harrowing journey to survive.",
+    "isbn": "9781250209766"
+  },
+  {
+    "title": "The Henna Artist",
+    "author": "Alka Joshi",
+    "publish_year": 2020,
+    "page_number": 352,
+    "genres": ["Historical Fiction", "Drama"],
+    "description": "In 1950s Jaipur, India, Lakshmi, a henna artist and healer, navigates her complicated past while providing for the women of high society.",
+    "isbn": "9780778309673"
+  },
+  {
+    "title": "The Giver of Stars",
+    "author": "Jojo Moyes",
+    "publish_year": 2019,
+    "page_number": 400,
+    "genres": ["Historical Fiction", "Romance"],
+    "description": "A historical novel set in Depression-era Kentucky, where a group of women become packhorse librarians, battling prejudice and forging deep friendships.",
+    "isbn": "9780399562487"
+  },
+  {
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "publish_year": 2021,
+    "page_number": 496,
+    "genres": ["Sci-Fi", "Adventure"],
+    "description": "Ryland Grace wakes up alone on a spaceship, with no memory of who he is or how he got there. His mission is humanity’s last hope, but the answers lie in his forgotten memories.",
+    "isbn": "9780593135204"
+  },
+  {
+    "title": "The Water Dancer",
+    "author": "Ta-Nehisi Coates",
+    "publish_year": 2019,
+    "page_number": 400,
+    "genres": ["Historical Fiction", "Fantasy"],
+    "description": "A young enslaved man named Hiram Walker discovers he has a mysterious power that could help him escape and fight back against the brutal system of slavery.",
+    "isbn": "9780399590597"
+  },
+  {
+    "title": "The Rosie Project",
+    "author": "Graeme Simsion",
+    "publish_year": 2013,
+    "page_number": 295,
+    "genres": ["Romance", "Fiction", "Comedy"],
+    "description": "Don Tillman, a brilliant but socially awkward geneticist, embarks on a quest to find a wife using a scientific approach, only to meet Rosie, who doesn't fit his criteria.",
+    "isbn": "9781444736436"
+  },
+  {
+    "title": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "publish_year": 2011,
+    "page_number": 370,
+    "genres": ["Fantasy", "Romance", "Historical Fiction"],
+    "description": "A retelling of the Iliad from the perspective of Patroclus, exploring his deep and tragic love affair with Achilles.",
+    "isbn": "9780062066187"
+  },
+  {
+    "title": "The Night Swim",
+    "author": "Megan Goldin",
+    "publish_year": 2020,
+    "page_number": 368,
+    "genres": ["Thriller", "Mystery"],
+    "description": "A true-crime podcast host investigates a cold case of a teenage girl’s drowning, only to find herself entangled in a present-day mystery with life-altering consequences.",
+    "isbn": "9781250219673"
+  },
+  {
+    "title": "The Wife Between Us",
+    "author": "Greer Hendricks & Sarah Pekkanen",
+    "publish_year": 2018,
+    "page_number": 368,
+    "genres": ["Thriller", "Mystery"],
+    "description": "A woman becomes obsessed with her ex-husband's new fiancée, but as the story unfolds, nothing is as it seems, and shocking truths are revealed.",
+    "isbn": "9781250130921"
+  },
+  {
+    "title": "The Silent Corner",
+    "author": "Dean Koontz",
+    "publish_year": 2017,
+    "page_number": 496,
+    "genres": ["Thriller", "Mystery", "Sci-Fi"],
+    "description": "Jane Hawk, a former FBI agent, investigates a series of mysterious suicides and uncovers a chilling conspiracy that threatens all of humanity.",
+    "isbn": "9780345545966"
+  },
+  {
+    "title": "Daisy Jones & The Six",
+    "author": "Taylor Jenkins Reid",
+    "publish_year": 2019,
+    "page_number": 368,
+    "genres": ["Fiction", "Historical Fiction", "Music"],
+    "description": "Told in the form of an oral history, this novel chronicles the rise and fall of a famous 1970s rock band, led by the enigmatic Daisy Jones.",
+    "isbn": "9781524798628"
+  },
+  {
+    "title": "Verity",
+    "author": "Colleen Hoover",
+    "publish_year": 2018,
+    "page_number": 333,
+    "genres": ["Thriller", "Romance"],
+    "description": "Lowen Ashleigh, a struggling writer, is given the chance of a lifetime when she’s asked to finish a bestselling series by the injured author, Verity, but she uncovers chilling secrets.",
+    "isbn": "9781409192617"
+  },
+  {
+    "title": "The 100-Year-Old Man Who Climbed Out the Window and Disappeared",
+    "author": "Jonas Jonasson",
+    "publish_year": 2009,
+    "page_number": 400,
+    "genres": ["Comedy", "Fiction"],
+    "description": "Allan Karlsson escapes his nursing home and embarks on an adventure, encountering criminals, explosions, and a suitcase full of cash—all while reflecting on his bizarre life.",
+    "isbn": "9781451695441"
+  },
+  {
+    "title": "The Secret History",
+    "author": "Donna Tartt",
+    "publish_year": 1992,
+    "page_number": 559,
+    "genres": ["Fiction", "Thriller", "Mystery"],
+    "description": "A gripping story about a group of college students who push the boundaries of morality and ultimately become involved in a murder.",
+    "isbn": "9780679410447"
+  },
+  {
+    "title": "Neverwhere",
+    "author": "Neil Gaiman",
+    "publish_year": 1996,
+    "page_number": 370,
+    "genres": ["Fantasy", "Urban Fantasy"],
+    "description": "Richard Mayhew's ordinary life is turned upside down when he helps a girl named Door, who leads him into the dark, magical world beneath London.",
+    "isbn": "9780380732330"
+  },
+  {
+    "title": "The Invisible Man",
+    "author": "H.G. Wells",
+    "publish_year": 1897,
+    "page_number": 192,
+    "genres": ["Sci-Fi", "Classic"],
+    "description": "A scientist discovers the key to invisibility but becomes increasingly unhinged as he uses his newfound power to terrorize society.",
+    "isbn": "9781503280056"
+  },
+  {
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "publish_year": 2014,
+    "page_number": 460,
+    "genres": ["Fiction", "Thriller"],
+    "description": "A school trivia night ends in murder, and three women must navigate their tangled secrets and relationships to uncover the truth.",
+    "isbn": "9780399167066"
+  },
+  {
+    "title": "The Night Manager",
+    "author": "John le Carré",
+    "publish_year": 1993,
+    "page_number": 482,
+    "genres": ["Thriller", "Spy Fiction"],
+    "description": "A luxury hotel manager is recruited by British intelligence to infiltrate the inner circle of an arms dealer in this gripping Cold War-era spy thriller.",
+    "isbn": "9780140177347"
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "publish_year": 2017,
+    "page_number": 400,
+    "genres": ["Historical Fiction", "Romance"],
+    "description": "An aging Hollywood star recounts the tumultuous love life and secrets of her past to a young reporter in this captivating tale of love and loss.",
+    "isbn": "9781501139239"
+  },
+  {
+    "title": "The Goldfinch",
+    "author": "Donna Tartt",
+    "publish_year": 2013,
+    "page_number": 771,
+    "genres": ["Fiction", "Literary"],
+    "description": "After surviving a terrorist bombing at a museum, Theo Decker is left with a priceless painting, setting off a series of life-changing events.",
+    "isbn": "9780316055444"
+  },
+  {
+    "title": "Room",
+    "author": "Emma Donoghue",
+    "publish_year": 2010,
+    "page_number": 321,
+    "genres": ["Fiction", "Drama"],
+    "description": "A young boy and his mother are held captive in a small room for years, but when they escape, they must learn to navigate the world outside.",
+    "isbn": "9780316334754"
+  },
+  {
+    "title": "Eleanor Oliphant Is Completely Fine",
+    "author": "Gail Honeyman",
+    "publish_year": 2017,
+    "page_number": 400,
+    "genres": ["Fiction", "Contemporary"],
+    "description": "Eleanor Oliphant lives a solitary life until an unexpected friendship forces her to confront her troubled past and learn to embrace the present.",
+    "isbn": "9781784298442"
+  },
+  {
+    "title": "The Ocean at the End of the Lane",
+    "author": "Neil Gaiman",
+    "publish_year": 2013,
+    "page_number": 181,
+    "genres": ["Fantasy", "Fiction"],
+    "description": "A middle-aged man returns to his hometown for a funeral and recalls his childhood, where he encountered strange and magical events.",
+    "isbn": "9780062255655"
+  },
+  {
+    "title": "The Time Traveler's Wife",
+    "author": "Audrey Niffenegger",
+    "publish_year": 2003,
+    "page_number": 518,
+    "genres": ["Sci-Fi", "Romance"],
+    "description": "A man with a genetic disorder that causes him to uncontrollably time travel falls in love with Clare, a woman who must cope with the unpredictable nature of their relationship.",
+    "isbn": "9780976880081"
+  }
+]

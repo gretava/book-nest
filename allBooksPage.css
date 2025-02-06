@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap');
+
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+/* body { */
+/* font-family: 'Raleway', sans-serif; */
+/* background-color: #faf3ed; */
+/* background-color: #142c49; */
+/* } */
+.deco-lines-explore {
+  width: 80%;
+  margin: auto;
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.deco-lines-explore h1 {
+  color: #faf3ed;
+  font-family: 'DM Serif Text', sans-serif;
+  padding-bottom: 0.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  letter-spacing: 0.1rem;
+}
