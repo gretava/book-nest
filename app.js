@@ -1,5 +1,7 @@
-// load navbar on all pages
+// at some point, replace try...catch with async/await
+
 document.addEventListener('DOMContentLoaded', function () {
+  // load navbar on all pages
   fetch('navbar.html')
     .then((response) => {
       if (!response.ok) {
@@ -24,6 +26,16 @@ document.addEventListener('DOMContentLoaded', function () {
       }
     })
     .catch((error) => console.error('Error loading navbar:', error));
+
+  // fetch JSON data for books
+  let books = [];
+  fetch('./sample.json')
+    .then((res) => res.json())
+    .then((data) => {
+      window.books = data; // store fetched data in the global variable
+      document.dispatchEvent(new Event('booksLoaded')); // dispatch event when books are loaded
+      console.log(data);
+    });
 
   // load footer on all pages
   fetch('footer.html')
