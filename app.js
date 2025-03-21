@@ -34,7 +34,6 @@ document.addEventListener('DOMContentLoaded', function () {
     .then((data) => {
       window.books = data; // store fetched data in the global variable
       document.dispatchEvent(new Event('booksLoaded')); // dispatch event when books are loaded
-      console.log(data);
     });
 
   // load footer on all pages
@@ -49,6 +48,24 @@ document.addEventListener('DOMContentLoaded', function () {
       const footer = document.getElementById('footer');
       if (footer) {
         footer.innerHTML = data;
+
+        // Scroll to top button functionality
+        const scrollTopBtn = document.getElementById('scrollToTop');
+        if (scrollTopBtn) {
+          window.addEventListener('scroll', () => {
+            if (window.scrollY > 100) {
+              scrollTopBtn.style.display = 'block';
+            } else {
+              scrollTopBtn.style.display = 'none';
+            }
+          });
+
+          scrollTopBtn.addEventListener('click', () => {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+          });
+        } else {
+          console.error('Scroll to top button not found in footer');
+        }
       } else {
         console.error('Footer element not found');
       }
@@ -65,8 +82,8 @@ document.addEventListener('DOMContentLoaded', function () {
     console.error('Show more button not found');
   }
 
+  // rotating text
   if (window.location.pathname.endsWith('index.html')) {
-    // rotating text
     let words = document.querySelectorAll('.word');
     words.forEach((word) => {
       let letters = word.textContent.split('');
