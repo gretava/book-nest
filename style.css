@@ -512,6 +512,34 @@ footer {
   margin-bottom: 1.5rem;
 }
 
+/* !!! scroll to top btn !!! */
+#scrollToTop {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: rgba(250, 243, 237, 0.8);
+  color: #c73d02;
+  border: none;
+  border-radius: 50px;
+  /* padding: 15px; */
+  font-size: 25px;
+  line-height: 30px;
+  font-weight: bold;
+  width: 40px;
+  height: 40px;
+  z-index: 9999;
+  text-align: center;
+  cursor: pointer;
+  /* box-shadow: 0 2px 3px rgba(198, 179, 152, 0.6); */
+  transition: opacity 0.5s ease-in;
+
+  &:hover {
+    border: solid 2px rgba(199, 61, 2, 0.8);
+    background-color: transparent;
+  }
+}
+
 /* !!! burger menu !!! */
 .burger {
   flex-direction: column;
