@@ -7,9 +7,16 @@ document.addEventListener('booksLoaded', () => {
 function displayBookList(books) {
   const bookList = document.getElementById('book-list');
   bookList.innerHTML = books
-    .map(
-      (book) => `
+    .map((book) => {
+      const coverUrl = book.isbn
+        ? `https://covers.openlibrary.org/b/isbn/${book.isbn}-M.jpg`
+        : '';
+      const bookCover = coverUrl
+        ? `<img src="${coverUrl}" alt="Book cover for ${book.title}">`
+        : '';
+      return `
     <div class="discover-book-info" style="display: none;">
+    ${bookCover}
       <h2>${book.title}</h2>
       <h3>${book.author}</h3>
       <div class="book-details">
@@ -20,8 +27,8 @@ function displayBookList(books) {
         ${book.genres.map((genre) => `<span>${genre}</span>`).join('')}
       </div>
     </div>
-  `,
-    )
+  `;
+    })
     .join('');
 
   // show 9 books initially
